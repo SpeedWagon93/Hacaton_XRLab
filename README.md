@@ -1,1 +1,1 @@
-# Hacaton_XRLab
+# XRLabHacaton
